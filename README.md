@@ -23,6 +23,7 @@ The project is divided into structured case study scripts:
 
 ---
 **📊 Data Visualization Showcase**
-<img width="197" height="251" alt="image" src="https://github.com/user-attachments/assets/0da1c433-04f6-432e-a6e7-370b7898bc1d" />
+<img width="364" height="369" alt="image" src="https://github.com/user-attachments/assets/0da1c433-04f6-432e-a6e7-370b7898bc1d" />
 <img width="364" height="369" alt="image" src="https://github.com/user-attachments/assets/da22acea-6d62-49a5-b278-964ef8ae9cf3" />
+<img width="364" height="369" alt="image" src="https://github.com/user-attachments/assets/437abfb1-f87d-4529-88bd-3101c75447bb" />
 
